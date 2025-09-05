@@ -1,0 +1,17 @@
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
+
+# Cartelle di build / output
+build/
+dist/
+
+# File di configurazione locale
+.env
+*.log
+
+# Dipendenze di progetto
+node_modules/
+venv/
+__pycache__/
+
